@@ -1,5 +1,6 @@
 #!/bin/sh
 
-cat resume.md | markdown | perl SmartyPants.pl > out.html
-wkhtmltopdf out.html out.pdf
-rm out.html
+rm resume.html
+rm resume.pdf
+cat resume.md | markdown | perl SmartyPants.pl > resume.html 
+wkhtmltopdf resume.html resume.pdf
