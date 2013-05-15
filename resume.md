@@ -1,3 +1,5 @@
+<link href="resume.css" rel="stylesheet"></link>
+
 #Isaac Simmons#
 
 Philadelphia, PA
