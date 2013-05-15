@@ -2,7 +2,9 @@ A (hopefully) up-to-date copy of my resume.
 
 ## Build Instructions ##
 
+Build pdf output with `./build.sh` to generate `out.pdf`
+
 ### Dependencies ###
 
-Probably something through either latex or wkhtml2pdf
+markdown, perl, wkhtmltopdf
 
