@@ -10,8 +10,6 @@ https://www.bitbucket.org/isaacsimmons/
 
 ##Professional Experience##
 
-##Education##
-
 ###Drexel University, Philadelphia PA###
 Title, Dates
 
@@ -25,6 +23,12 @@ Title, Dates
 * List
 * of
 * Items
+
+##Education##
+
+Masters of Science in Very Large Information Systems, Carnegie Mellon University 2008
+
+Bachelors of Science in Computer Science, Carnegie Mellon University, 2003
 
 ##Technical Skills##
 
