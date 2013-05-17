@@ -7,6 +7,8 @@ Philadelphia, PA
 412 478 1626  
 <https://www.mydomainname.com/blog>
 
+-----------------------------------
+
 ##Objective##
 
 Blah blah, lorem ipsum, find employment, solve world hunger, etc.
