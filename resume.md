@@ -3,9 +3,9 @@
 #Isaac Simmons#
 
 Philadelphia, PA  
-isaac.simmons@gmail.com  
+<isaac.simmons@gmail.com>  
 412 478 1626  
-https://www.mydomainname.com/blog
+<https://www.mydomainname.com/blog>
 
 ##Objective##
 
@@ -43,7 +43,7 @@ Machine Learning, Distributed Systems, Data Management?
 
 ##Portfolio##
 
-http://bitbucket.org/isaacsimmons
+<http://bitbucket.org/isaacsimmons>
 
 ##Publications##
 
