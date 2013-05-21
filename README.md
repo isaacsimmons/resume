@@ -6,5 +6,5 @@ Build pdf output with `./build.sh` to generate `resume.html` and `resume.pdf`
 
 ### Dependencies ###
 
-markdown, perl, wkhtmltopdf
+perl, wkhtmltopdf
 
