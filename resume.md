@@ -1,6 +1,6 @@
 #Isaac Simmons#
 
-Philadelphia, PA  
+Gainesville, FL  
 <isaac.simmons@gmail.com>  
 412 478 1626  
 <https://www.mydomainname.com/blog>
