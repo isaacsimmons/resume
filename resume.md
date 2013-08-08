@@ -1,13 +1,11 @@
 #Isaac Simmons#
 
-Gainesville, FL  
-<isaac.simmons@gmail.com>  
-412 478 1626  
-<https://www.mydomainname.com/blog>
+> Gainesville, FL &nbsp; &nbsp; &nbsp; 412 478 1626  
+> <isaac.simmons@gmail.com>
 
 -----------------------------------
 
-##Objective##
+###Objective###
 
 Blah blah, lorem ipsum, find employment, solve world hunger, etc.
 This should probably be two or three sentences long so I'll pad it out with some more.
@@ -15,7 +13,7 @@ One sentence per line for long blocks.
 
 -----------------------------------
 
-##Professional Experience##
+###Professional Experience###
 
 **Research Engineer**, Jan 2009 - Present  
 **Drexel University**
@@ -33,7 +31,7 @@ One sentence per line for long blocks.
 
 -----------------------------------
 
-##Education##
+###Education###
 
 Masters of Science in Very Large Information Systems, *Carnegie Mellon University*, 2008
 
@@ -41,7 +39,7 @@ Bachelors of Science in Computer Science, *Carnegie Mellon University*, 2003
 
 -----------------------------------
 
-##Technical Skills##
+###Technical Skills###
 
 Java, Python, JavaScript, SQL, Scala, PHP, Bash, NodeJS
 
@@ -49,12 +47,13 @@ Machine Learning, Distributed Systems, Data Management?
 
 -----------------------------------
 
-##Portfolio##
+###Portfolio###
 
 <http://bitbucket.org/isaacsimmons>
+<https://www.mydomainname.com/blog>
 
 -----------------------------------
 
-##Publications##
+###Publications###
 
 
