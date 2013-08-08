@@ -1,6 +1,7 @@
 #Isaac Simmons#
 
-> Gainesville, FL &nbsp; &nbsp; &nbsp; 412 478 1626  
+> Gainesville, FL  
+> 412 478 1626  
 > <isaac.simmons@gmail.com>
 
 -----------------------------------
