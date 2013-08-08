@@ -10,3 +10,9 @@ a {
   color: #444444;
   text-decoration: none;
 }
+h1,h3 {
+  font-variant: small-caps;
+}
+h1,blockquote {
+  text-align: center;
+}
