@@ -16,14 +16,14 @@ One sentence per line for long blocks.
 
 ###Professional Experience###
 
-**Research Engineer**, Jan 2009 - Present  
+**Research Engineer** <time>Jan 2009 - Present</time>  
 **Drexel University**
 
 * List
 * of
 * Items
 
-**Research Programmer**, Jan 2004 - Dec 2008  
+**Research Programmer** <time>Jan 2004 - Dec 2008</time>  
 **Carnegie Mellon University**
 
 * List
@@ -34,9 +34,9 @@ One sentence per line for long blocks.
 
 ###Education###
 
-Masters of Science in Very Large Information Systems, *Carnegie Mellon University*, 2008
+Masters of Science in Very Large Information Systems, *Carnegie Mellon University* <time>2008</time>
 
-Bachelors of Science in Computer Science, *Carnegie Mellon University*, 2003
+Bachelors of Science in Computer Science, *Carnegie Mellon University* <time>2003</time>
 
 -----------------------------------
 
