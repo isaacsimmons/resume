@@ -49,7 +49,7 @@ Machine Learning, Distributed Systems, Data Management?
 
 ###Portfolio###
 
-<http://bitbucket.org/isaacsimmons>
+<http://bitbucket.org/isaacsimmons>  
 <https://www.mydomainname.com/blog>
 
 -----------------------------------
