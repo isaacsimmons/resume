@@ -8,3 +8,4 @@ cat resume.md | perl scripts/markdown.pl | perl scripts/SmartyPants.pl >> resume
 cat outline.3.html >> resume.html
 
 wkhtmltopdf resume.html resume.pdf
+#TODO: play with --page-size options in wkhtmltopdf to do pagination-friendly stuff?
