@@ -21,9 +21,9 @@ Build innovative software systems.
 ###Professional Experience###
 
 **Research Engineer** <time>Jan 2009 - Jun 2015</time>  
-**Drexel University**
+**Drexel University**, Philadelphia PA
 
-* Worked remotely August 2013 to June 2015, using remote collaboration tools to stay in touch with team
+* Worked remotely in Gainesville Florida from August 2013 to June 2015, using remote collaboration tools to stay in touch with team
 * Played an active role in proposal development for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
 * Acted as project manager and lead developer for prototype inventory tracking website for a customer
 * Acted as technical lead developing the backend API for a mobile app that scrapes and aggregates medical information enabling better data transparency for patients and providing actionable healtcare suggestions
@@ -34,7 +34,7 @@ Build innovative software systems.
 * Built translation layers to interface with the message formats of several military systems of record
 
 **Research Programmer** <time>Jan 2004 - Dec 2008</time>  
-**Carnegie Mellon University**
+**Carnegie Mellon University**, Pittsburgh PA
 
 * Developed software agents that automatically adapt to users actions by applying machine learning techniques to email and web-based form systems as a part of the DARPA-funded RADAR project
 * Built extensible framework to facilitate rapid development of intelligent agents for new application domains
