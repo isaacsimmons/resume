@@ -46,9 +46,9 @@ Build innovative software systems.
 
 ###Education###
 
-Masters of Science in Very Large Information Systems, *Carnegie Mellon University* <time>2008</time>
+Master of Science in Very Large Information Systems, *Carnegie Mellon University* <time>2008</time>
 
-Bachelors of Science in Computer Science, *Carnegie Mellon University* <time>2003</time>
+Bachelor of Science in Computer Science, *Carnegie Mellon University* <time>2003</time>
 
 -----------------------------------
 
