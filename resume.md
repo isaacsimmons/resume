@@ -4,6 +4,10 @@
 > 412 478 1626  
 > <isaac.simmons@gmail.com>
 
+> <http://bitbucket.org/isaacsimmons>  
+> <http://github.com/isaacsimmons>
+
+
 -----------------------------------
 
 ###Objective###
@@ -53,13 +57,6 @@ Bachelors of Science in Computer Science, *Carnegie Mellon University* <time>200
 Java, Python, SQL, Shell, JavaScript, PHP, NodeJS, Ansible, Scala
 
 Applied Machine Learning, Distributed Systems, Data Management and Curation
-
------------------------------------
-
-###Portfolio###
-
-<http://bitbucket.org/isaacsimmons>  
-<http://github.com/isaacsimmons>
 
 -----------------------------------
 
