@@ -20,10 +20,10 @@ Build innovative software systems.
 
 ###Professional Experience###
 
-**Research Engineer** <time>Jan 2009 - Present</time>  
+**Research Engineer** <time>Jan 2009 - Jun 2015</time>  
 **Drexel University**
 
-* Worked remotely August 2013 to present, using remote collaboration tools to stay in touch with team
+* Worked remotely August 2013 to June 2015, using remote collaboration tools to stay in touch with team
 * Played an active role in proposal development for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
 * Acted as project manager and lead developer for prototype inventory tracking website for a customer
 * Acted as technical lead developing the backend API for a mobile app that scrapes and aggregates medical information enabling better data transparency for patients and providing actionable healtcare suggestions
