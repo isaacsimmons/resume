@@ -19,7 +19,7 @@ $VERSION = "1.5.1";
 
 
 # Configurable variables:
-my $smartypants_attr = "1";  # Blosxom and BBEdit users: change this to configure.
+my $smartypants_attr = "2";  # Blosxom and BBEdit users: change this to configure.
                              #  1 =>  "--" for em-dashes; no en-dash support
                              #  2 =>  "---" for em-dashes; "--" for en-dashes
                              #  3 =>  "--" for em-dashes; "---" for en-dashes
