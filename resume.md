@@ -24,10 +24,14 @@ Build innovative software systems.
 
 * Worked remotely in Gainesville Florida from August 2013 to June 2015, using remote collaboration tools to stay in touch with team
 * Played an active role in proposal development for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
-* *Chartworm* 2014--2015, Technical Lead: Developed the backend API for a mobile app that scrapes and aggregates medical information enabling better data transparency for patients and providing actionable healtcare suggestions
-* *Trackerplex* 2013--2014, Project Manager and Lead Developer: Built full-stack prototype inventory tracking website for a customer using the Play Framework and Bootstrap
-* *DataNet* 2011--2015: Worked on the National Science Foundation-funded DataNet Federation Consortium helping to build federated data management grids and tools to support long-term curation of engineering and computer aided drafting data
-* *TITAN* 2009--2012, Lead Software Integrator
+* *Chartworm*, Technical Lead <time>2014--2015</time>
+ * Built RESTful API in Python and Flask used by mobile app to enable better data transparency for patients and provide actionable healtcare suggestions
+ * Developed web scrapers using Selenium or Requests and a RabbitMQ/Celery task queue to scrape, parse, and aggregate medical information from multiple healthcare provider web portals
+* *Trackerplex*, Project Manager and Lead Developer <time>2013--2014</time>
+ * Built full-stack prototype inventory tracking website for a customer using the Play Framework and Bootstrap
+* *DataNet* <time>2011--2015</time> 
+ * Worked on the National Science Foundation-funded DataNet Federation Consortium helping to build federated data management grids and tools to support long-term curation of engineering and computer aided drafting data
+* *TITAN*, Lead Software Integrator <time>2009--2012</time>
  * Contributed to specification for command and control message formats and developed and maintained several shared libraries used by contractors for US Army CERDEC's TITAN program
  * Designed system to support fully decentralized collaboration on digital documents by military command staff; implemented back-end storage and synchronization framework to operate under bandwidth limited and disruption prone network conditions
  * Participated in large experiments, demonstrations, and field trials at Ft. Leavenworth, Ft. Polk and Ft. Dix as well as Massy France and Nürnberg Germany.  Provided integration, testing, and user training support as well as capturing experiment data and conducting interviews with end users and subject matter experts
