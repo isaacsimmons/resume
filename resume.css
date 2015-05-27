@@ -19,3 +19,8 @@ h1,blockquote {
 time {
   float: right;
 }
+hr {
+  height: 4px;
+  border: 0px none;
+  background-color: #E7E7E7;
+}
