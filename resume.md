@@ -3,7 +3,7 @@
 > Gainesville, FL  
 > 412 478 1626  
 > <isaac.simmons@gmail.com>  
-> <http://github.com/isaacsimmons>
+> <https://github.com/isaacsimmons>
 
 -----------------------------------
 
