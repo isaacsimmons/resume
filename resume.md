@@ -21,7 +21,7 @@ Build innovative software systems.
 **Drexel University**, Philadelphia PA
 
 * Worked remotely in Gainesville Florida from August 2013 to June 2015, using remote collaboration tools to stay in touch with team
-* Played an active role in proposal development for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
+* Wrote proposals for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
 * *Chartworm*, Technical Lead <time>2014--2015</time>
  * Built RESTful API in Python and Flask used by mobile app to enable better data transparency for patients and provide actionable healtcare suggestions
  * Developed web scrapers using Selenium or Requests and a RabbitMQ/Celery task queue to scrape, parse, and aggregate medical information from multiple healthcare provider web portals
