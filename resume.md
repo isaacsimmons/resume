@@ -20,7 +20,7 @@ Build innovative software systems.
 **Research Engineer** <time>Jan 2009--Jun 2015</time>  
 **Drexel University**, Philadelphia PA
 
-* Worked remotely in Gainesville Florida from August 2013 to June 2015, using remote collaboration tools to stay in touch with team
+* Worked remotely in Gainesville, Florida from August 2013 to June 2015, using remote collaboration tools to stay in touch with team
 * Wrote proposals for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
 * *Chartworm*, Technical Lead <time>2014--2015</time>
  * Built RESTful API in Python and Flask used by mobile app to enable better data transparency for patients and provide actionable healtcare suggestions
@@ -35,7 +35,7 @@ Build innovative software systems.
 * *TITAN*, Lead Software Integrator <time>2009--2012</time>
  * Contributed to specification for command and control message formats and developed and maintained several shared libraries used by contractors for US Army CERDEC's TITAN program
  * Designed system to support fully decentralized collaboration on digital documents by military command staff; implemented back-end storage and synchronization framework to operate under bandwidth limited and disruption prone network conditions
- * Participated in large experiments, demonstrations, and field trials at Ft. Leavenworth, Ft. Polk and Ft. Dix as well as Massy France and Nürnberg Germany.  Provided integration, testing, and user training support as well as capturing experiment data and conducting interviews with end users and subject matter experts
+ * Participated in large experiments, demonstrations, and field trials at Ft. Leavenworth, Ft. Polk and Ft. Dix as well as Massy, France and Nürnberg, Germany.  Provided integration, testing, and user training support as well as capturing experiment data and conducting interviews with end users and subject matter experts
  * Built translation layers to interface with the message formats of several military systems of record
 
 **Research Programmer** <time>Jan 2004--Dec 2008</time>  
