@@ -24,7 +24,7 @@ Build innovative software systems.
 * Wrote proposals for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
 * *Chartworm*, Technical Lead <time>2014--2015</time>
  * Built RESTful API in Python and Flask used by mobile app to enable better data transparency for patients and provide actionable healtcare suggestions
- * Developed web scrapers using Selenium or Requests and a RabbitMQ/Celery task queue to scrape, parse, and aggregate medical information from multiple healthcare provider web portals
+ * Developed modules to scrape, parse, and aggregate medical information from multiple healthcare provider web portals using Selenium and a RabbitMQ/Celery task queue
 * *Trackerplex*, Project Manager and Lead Developer <time>2013--2014</time>
  * Built full-stack prototype inventory tracking website for a customer using the Play Framework and Bootstrap
 * *DataNet* <time>2011--2015</time> 
