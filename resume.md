@@ -59,7 +59,9 @@ Bachelor of Science in Computer Science, *Carnegie Mellon University* <time>2003
 
 ###Technical Skills###
 
-Java, Python, SQL, Shell, Mercurial, Git, JavaScript, HTML5, NodeJS, PHP, Ansible
+Java, Python, SQL, Shell, JavaScript, HTML5, NodeJS, PHP
+
+Maven, Mercurial, Git, Jenkins, Ansible
 
 Applied Machine Learning, Distributed Systems, Data Management and Curation
 
