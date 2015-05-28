@@ -1,10 +1,18 @@
-A (hopefully) up-to-date copy of my resume.
+My markdown-formatted resume and a simple toolchain to build a pdf version from it.
 
-## Build Instructions ##
+# Usage #
 
-Build pdf output with `./build.sh` to generate `resume.html` and `resume.pdf`
+    ./build.sh [filename] [viewer]
 
-### Dependencies ###
+## Options ##
+  
+* filename: Optional basename of file to generate (default: resume)
+* viewer: Optional pdf viewer program to preview output
 
-perl, wkhtmltopdf
+Example: `./build.sh "Isaac Simmons - Resume" evince`
+
+# Dependencies #
+
+* perl
+* wkhtmltopdf
 
