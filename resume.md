@@ -26,12 +26,13 @@ Build innovative software systems.
  * Built RESTful API in Python and Flask used by mobile app to enable better data transparency for patients and provide actionable healtcare suggestions
  * Developed modules to scrape, parse, and aggregate medical information from multiple healthcare provider web portals using Selenium and a RabbitMQ/Celery task queue
 * *Trackerplex*, Project Manager and Lead Developer <time>2013--2014</time>
- * Built full-stack prototype inventory tracking website using the Play Framework and Bootstrap
+ * Built prototype inventory tracking website using the Play Framework and Bootstrap
  * Developed effort estimates and worked with customer to prioritize tasks on a weekly basis
 * *DataNet*, Developer and System Administrator <time>2011--Present</time> 
  * Built federated data management grids for the National Science Foundation-funded DataNet Federation Consortium helping to support long-term curation of engineering and computer aided drafting data
  * Built tools integrated with the iRODS microservice and indexing frameworks to identify, convert, and extract metadata from engineering and CAD file formats
  * Managed configuration, upgrades and backups for several linux servers and migrated them to OpenStack virtual machines
+ * Migrated file storage backend for user-contributed data to Amazon S3
 * *TITAN*, Lead Software Integrator <time>2009--2012</time>
  * Contributed to specification for command and control message formats and developed and maintained several shared libraries used by contractors for US Army CERDEC's TITAN program
  * Designed system to support fully decentralized collaboration on digital documents by military command staff; implemented back-end storage and synchronization framework to operate under bandwidth limited and disruption prone network conditions
@@ -59,7 +60,7 @@ Bachelor of Science in Computer Science, *Carnegie Mellon University* <time>2003
 
 ###Technical Skills###
 
-Java, Python, SQL, Shell, JavaScript, HTML5, NodeJS, PHP
+Java, Python, SQL, Shell, Linux, JavaScript, HTML5, NodeJS, PHP
 
 Maven, Mercurial, Git, Jenkins, Ansible, npm
 
