@@ -61,7 +61,7 @@ Bachelor of Science in Computer Science, *Carnegie Mellon University* <time>2003
 
 Java, Python, SQL, Shell, JavaScript, HTML5, NodeJS, PHP
 
-Maven, Mercurial, Git, Jenkins, Ansible
+Maven, Mercurial, Git, Jenkins, Ansible, npm
 
 Applied Machine Learning, Distributed Systems, Data Management and Curation
 
