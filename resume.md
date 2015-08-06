@@ -17,18 +17,18 @@ Build innovative software systems.
 
 ###Professional Experience###
 
-**Research Engineer** <time>Jan 2009--Present</time>  
+**Research Engineer** <time>Jan 2009--Jun 2015</time>  
 **Drexel University**, Philadelphia PA
 
-* Worked remotely in Gainesville, Florida from August 2013 to present, using remote collaboration tools to stay in touch with team
+* Worked remotely in Gainesville, Florida from August 2013 to June 2015, using remote collaboration tools to stay in touch with team
 * Wrote proposals for both customer contracts and government grants including successfully funded proposals acting as principal investigator or technical lead
-* *Chartworm*, Technical Lead <time>2014--Present</time>
+* *Chartworm*, Technical Lead <time>2014--2015</time>
  * Built RESTful API in Python and Flask used by mobile app to enable better data transparency for patients and provide actionable healtcare suggestions
  * Developed modules to scrape, parse, and aggregate medical information from multiple healthcare provider web portals using Selenium and a RabbitMQ/Celery task queue
 * *Trackerplex*, Project Manager and Lead Developer <time>2013--2014</time>
  * Built prototype inventory tracking website using the Play Framework and Bootstrap
  * Developed effort estimates and worked with customer to prioritize tasks on a weekly basis
-* *DataNet*, Developer and System Administrator <time>2011--Present</time> 
+* *DataNet*, Developer and System Administrator <time>2011--2015</time> 
  * Built federated data management grids for the National Science Foundation-funded DataNet Federation Consortium helping to support long-term curation of engineering and computer aided drafting data
  * Built tools integrated with the iRODS microservice and indexing frameworks to identify, convert, and extract metadata from engineering and CAD file formats
  * Managed configuration, upgrades and backups for several linux servers and migrated them to OpenStack virtual machines
