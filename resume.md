@@ -11,11 +11,22 @@
 
 Collaborate with smart, motivated people.
 Solve challenging real-world problems.
-Build innovative software systems.
+Build innovative software.
 
 -----------------------------------
 
 ###Professional Experience###
+
+**Independent Contractor** <time>Jul 2015--present</time>  
+Gainesville FL
+
+* *CAD Tool*, Harvard University Libraries
+ * Surveyed existing computer--aided drafting (CAD) software tools and libraries
+ * Produced XML metadata schema and policy recommendations for curation of CAD data
+ * Developed software to perform file format identification, validation, and metadata extraction
+* *Chartworm*, Drexel University College of Medicine
+ * Continued Chartworm project *(see below)*
+ * Integrated software with third-party insurance portals to prepare for live user studies
 
 **Research Engineer** <time>Jan 2009--Jun 2015</time>  
 **Drexel University**, Philadelphia PA
